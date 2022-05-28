@@ -31,3 +31,5 @@ Insights
 •	Order volumes increase on the weekends compared to the weekdays and  therefore incentives should be put in place so that more delivery drivers are available over the weekend
 •	Delivery time over the weekends is less compared to the weekdays. This could be due to the dip in traffic volume over the weekends.
 •	Around 11% of the total orders have more than 60 minutes of total delivery time. FoodHub should try to minimize such instances in order to avoid customer dissatisfaction and some reward to the punctual delivery persons
+•	Around 11% of the total orders have more than 60 minutes of total delivery time. FoodHub should try to minimize such instances in order to avoid customer dissatisfaction. 
+•	There is a direct correlation between delivery time and customer dissatisfaction, around 11% of the total orders hae more than 60 minutes total delivery time, instances of this should be minimimized to avoid customer dissatisfaction
